@@ -1,6 +1,6 @@
 {
   "name": "mock-couch-alexjeffburke",
-  "version": "0.1.3-patch1",
+  "version": "0.1.3-patch2",
   "description": "An http server pretending to be couchdb, for unit testing.",
   "homepage": "http://chris-l.github.io/mock-couch/",
   "main": "index.js",
